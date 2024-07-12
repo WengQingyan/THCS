@@ -21,7 +21,8 @@ We train our THCS models on an NVIDIA GeForce RTX 3090 with 24 GB memory.
 - tensorboard 2.15.1
 ## How to run
 ### Dataset
-Considering the raw DNS data size being over large, we provide the mat files where the data are processed by Farve averaging and Reynolds averaging.
+Considering the raw DNS data size being over large, we provide a Google link for the DNS data, while the EXP data can be found in the *Data/EXP data*.
+
 ### Implementation
 Generally, we evaluate our THCS on five tasks:
 - Generalization test
